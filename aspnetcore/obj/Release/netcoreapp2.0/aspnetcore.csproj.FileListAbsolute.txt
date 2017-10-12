@@ -1,0 +1,10 @@
+/app/bin/Release/netcoreapp2.0/aspnetcore.deps.json
+/app/bin/Release/netcoreapp2.0/aspnetcore.runtimeconfig.json
+/app/bin/Release/netcoreapp2.0/aspnetcore.runtimeconfig.dev.json
+/app/bin/Release/netcoreapp2.0/aspnetcore.dll
+/app/bin/Release/netcoreapp2.0/aspnetcore.pdb
+/app/obj/Release/netcoreapp2.0/aspnetcore.csproj.CoreCompileInputs.cache
+/app/obj/Release/netcoreapp2.0/aspnetcore.AssemblyInfoInputs.cache
+/app/obj/Release/netcoreapp2.0/aspnetcore.AssemblyInfo.cs
+/app/obj/Release/netcoreapp2.0/aspnetcore.dll
+/app/obj/Release/netcoreapp2.0/aspnetcore.pdb

@@ -1,0 +1,5 @@
+/app
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=aspnetcore
+--content-root=/app
+--file=
