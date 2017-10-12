@@ -1,3 +1,3 @@
-# Multi-Stage Build: ASP.NET Core Web API
+# Multi-Stage Builds
 
-Run `docker-compose up` to leverage a multi-stage build where the app gets built in the build aspnetcore container, then the artifacts from that get pulled into the run container and ran.
+Examples of leverging Docker multi-stage builds, so you can use the proper SDK container to build your app, and a thin container suited just to running your app.
